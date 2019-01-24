@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit
 
 /**
  * Description:
- * Created by wangchengyuan on 2018/9/27.
+ * Created by yclog on 2018/9/27.
  */
 @Module
 class AppModule(mContext: Context){

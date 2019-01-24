@@ -9,7 +9,7 @@ import flat.com.mvvmlight.View.TargetActivity
 
 /**
  * Description:
- * Created by wangchengyuan on 2018/9/19.
+ * Created by yclog on 2018/9/19.
  */
 class UserViewModel(var user: User, var context: Context){
     val info = ObservableField<String>("${user.firstName} and ${user.lastName}")

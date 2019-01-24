@@ -2,7 +2,7 @@ package flat.com.mvvmlight.NetService
 
 /**
  * Description:
- * Created by wangchengyuan on 2018/9/27.
+ * Created by yclog on 2018/9/27.
  */
 class NetSetting{
     companion object {

@@ -6,7 +6,7 @@ import flat.com.mvvmlight.Presenter.LoginPresenter
 /**
  * Description:
  *
- * @author wangchengyuan
+ * @author yclog
  * @date 2018/9/27
  */
 @Component(modules = [AppModule::class])

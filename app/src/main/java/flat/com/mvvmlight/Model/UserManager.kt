@@ -6,6 +6,6 @@ import flat.com.mvvmlight.NetService.UserApiService
 
 /**
  * Description:
- * Created by wangchengyuan on 2018/9/27.
+ * Created by yclog on 2018/9/27.
  */
 class UserManager(private val mPref: SharedPreferences, private val mRestAdapter: UserApiService)

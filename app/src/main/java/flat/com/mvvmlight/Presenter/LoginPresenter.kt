@@ -5,7 +5,7 @@ import flat.com.mvvmlight.Utils.PasswordValidator
 
 /**
  * Description:
- * Created by wangchengyuan on 2018/9/27.
+ * Created by yclog on 2018/9/27.
  */
 class LoginPresenter(private val mUserManager: UserManager, private val passwordValidator: PasswordValidator){
 
