@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_radius">6dp</dimen>
+
+    <!--根据二级分类调整假直播间标题所在layout参数-->
+    <dimen name="cid2_paddingTop">10dp</dimen>
+    <dimen name="cid2_paddingRight">4dp</dimen>
+    <dimen name="cid2_paddingLeft">8dp</dimen>
+    <dimen name="cid2_paddingBottom">0dp</dimen>
+</resources>
